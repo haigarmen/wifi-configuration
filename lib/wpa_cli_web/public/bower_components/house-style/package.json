@@ -1,0 +1,21 @@
+{
+  "name": "house-style",
+  "version": "0.0.0",
+  "description": "BBC Research & Development House Style",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BBC",
+  "license": "Apache v2",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-cssmin": "~0.6.1",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-image-embed": "git://github.com/afitiskin/grunt-image-embed.git",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-autoprefixer": "~0.2.20130806"
+  }
+}
